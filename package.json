@@ -11,5 +11,6 @@
   },
   "keywords": [],
   "author": "Ya Zhuang",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "github:zhuangya/y-websocket-server"
 }
